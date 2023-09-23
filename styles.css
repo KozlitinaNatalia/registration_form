@@ -78,6 +78,7 @@ textarea {
   background-color: var(--button-color);
   border-color: var(--button-color);
   min-width: 300px;
+  border-radius: 4px;
 }
 
 input[type="file"] {
